@@ -7,6 +7,7 @@
   "cond":"No Rain Expected",
   "cond2" :"Possible Rain",
   "wind" : "Clear",
+  "Lo": "Location",
   "Temp" : "°C"
 
 }
