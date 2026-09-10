@@ -1,0 +1,12 @@
+{
+  "weather": "Weather",
+  "humidity": "Humidity",
+  "min": "Min",
+  "max": "Max",
+  "place":"Khan El-Khalili",
+  "cond":"No Rain Expected",
+  "cond2" :"Possible Rain",
+  "wind" : "Clear",
+  "Temp" : "°C"
+
+}
