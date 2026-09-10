@@ -21,7 +21,6 @@ export default function CardTemp() {
     dispatch(fetchWeather());
   }, [dispatch]);
 
-  console.log("Weather Data:", value);
 
   const locale = i18n.language === "ar" ? "ar-EG" : "en-US";
   const [dateAndTime, setDateAndTime] = useState({
